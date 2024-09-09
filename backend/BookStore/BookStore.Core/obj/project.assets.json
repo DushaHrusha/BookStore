@@ -2308,11 +2308,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hrush\\OneDrive\\Документы\\GitHub\\bookstore\\backend\\BookStore\\BookStore.Core\\BookStore.Core.csproj",
+      "projectUniqueName": "C:\\Users\\hrush\\OneDrive\\Документы\\GitHub\\bookstore\\BookStoreWithFrontBack\\backend\\BookStore\\BookStore.Core\\BookStore.Core.csproj",
       "projectName": "BookStore.Core",
-      "projectPath": "C:\\Users\\hrush\\OneDrive\\Документы\\GitHub\\bookstore\\backend\\BookStore\\BookStore.Core\\BookStore.Core.csproj",
+      "projectPath": "C:\\Users\\hrush\\OneDrive\\Документы\\GitHub\\bookstore\\BookStoreWithFrontBack\\backend\\BookStore\\BookStore.Core\\BookStore.Core.csproj",
       "packagesPath": "C:\\Users\\hrush\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hrush\\OneDrive\\Документы\\GitHub\\bookstore\\backend\\BookStore\\BookStore.Core\\obj\\",
+      "outputPath": "C:\\Users\\hrush\\OneDrive\\Документы\\GitHub\\bookstore\\BookStoreWithFrontBack\\backend\\BookStore\\BookStore.Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
